@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jaads
-- 👀 I’m a enthusiatic software developer
-- 🌱 I’m currently working with javascript and node.js - serverless, or on a dedicated server on AWS or with Docker.
+- 👀 I’m a enthusiatic software engineer
+- 🌱 Started with Java, worked with JS/TS a several years, now doing Rust
+- Very interessted in software design and architecture
 
 <!---
 jaads/jaads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
