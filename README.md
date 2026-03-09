@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @jaads
-- 👀 I’m a enthusiatic software engineer
-- 🌱 Started with Java, worked with JS/TS a several years, now doing Rust
-- Very interessted in software design and architecture
+# 👋 Hey, I’m Jan
+I'm a professional software engineer with academic background. I worked with Java, JS/TS until I found my way to Rust 🦀
 
-<!---
-jaads/jaads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love to build high quality software. Meaning that it's robust, correct, fast, flexible, secure and scalable.
+
+I'm the creator of [TangleGuard](https://tangleguard.com/) - a static code anlysis tool made for software architects. I also host a [public directory of architectures](https://app.tangleguard.com/). 
+
+
+
